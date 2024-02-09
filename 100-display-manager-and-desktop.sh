@@ -61,6 +61,8 @@ dmenu
 nimdow-bin
 sxhkd
 feh
+picom
+volumeicon
 )
 
 count=0
