@@ -49,6 +49,7 @@ echo "Installation of the core software"
 list=(
 alacritty
 archlinux-tweak-tool-git
+archlinux-logout-git
 arcolinux-btop-git
 arcolinux-config-all-desktops-git
 arcolinux-dconf-all-desktops-git
