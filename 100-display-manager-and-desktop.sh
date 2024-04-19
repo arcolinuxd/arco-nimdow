@@ -71,8 +71,7 @@ nimdow-bin
 nitrogen
 picom
 polkit-gnome
-rofi
-rofi-theme-fonts
+rofi-lbonn-wayland
 sddm
 sxhkd
 thunar
