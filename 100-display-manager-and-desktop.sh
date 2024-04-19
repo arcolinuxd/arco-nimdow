@@ -61,7 +61,7 @@ arcolinux-rofi-themes-git
 arcolinux-root-git
 arcolinux-volumeicon-git
 arcolinux-wallpapers-git
-arcolinux-xfce-git
+arconet-xfce
 btop
 dmenu
 feh
