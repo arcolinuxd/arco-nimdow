@@ -48,45 +48,29 @@ echo "Installation of the core software"
 
 list=(
 alacritty
-archlinux-tweak-tool-git
 archlinux-logout-git
-arcolinux-btop-git
 arcolinux-config-all-desktops-git
 arcolinux-dconf-all-desktops-git
 arcolinux-gtk3-sardi-arc-git
 arcolinux-nimdow-git
-arcolinux-powermenu-git
 arcolinux-rofi-git
 arcolinux-rofi-themes-git
 arcolinux-root-git
 arcolinux-volumeicon-git
 arcolinux-wallpapers-git
 arconet-xfce
-btop
 dmenu
-feh
-lxappearance
 nim
 nimdow-bin
-nitrogen
 picom
 polkit-gnome
 rofi-lbonn-wayland
 sddm
 sxhkd
 thunar
-thunar-archive-plugin
-thunar-media-tags-plugin
-thunar-volman
 ttf-hack
 ttf-jetbrains-mono-nerd
 volumeicon
-xfce4-notifyd
-xfce4-power-manager
-xfce4-screenshooter
-xfce4-settings
-xfce4-taskmanager
-xfce4-terminal
 )
 
 

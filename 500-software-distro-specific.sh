@@ -56,8 +56,14 @@ func_category Additional-distro-specific
 
 list=(
 arandr
+archlinux-tweak-tool-git
+arcolinux-btop-git
+arcolinux-powermenu-git
+btop
+feh
 gmrun
 gtk-engine-murrine
+hardcode-fixer-git
 imagemagick
 lxappearance
 lxrandr
@@ -65,18 +71,18 @@ nitrogen
 picom
 playerctl
 python-pywal
+thunar-archive-plugin
+thunar-media-tags-plugin
+thunar-volman
 volumeicon
 w3m
-urxvt-resize-font-git
 xfce4-appfinder
 xfce4-notifyd
 xfce4-power-manager
 xfce4-screenshooter
 xfce4-settings
-xfce4-screenshooter
 xfce4-taskmanager
 xfce4-terminal
-hardcode-fixer-git
 )
 
 count=0
