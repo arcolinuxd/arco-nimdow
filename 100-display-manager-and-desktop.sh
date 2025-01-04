@@ -51,7 +51,6 @@ alacritty
 archlinux-logout-git
 arcolinux-config-all-desktops-git
 arcolinux-dconf-all-desktops-git
-arcolinux-gtk3-sardi-arc-git
 arcolinux-nimdow-git
 arcolinux-rofi-git
 arcolinux-rofi-themes-git
